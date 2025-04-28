@@ -54,8 +54,10 @@ Sample Outputs:
 ![image](https://github.com/user-attachments/assets/46b27cda-77b0-4fc2-a8b5-6ddf6dd3f148)
 
 
+
 ### Generations: 500, Population: 100, Mutation: 0.02
 ![image](https://github.com/user-attachments/assets/639a1cad-e08a-4f92-ad47-4255d1b5c677)
+
 
 
 ### Generations: 1000, Population: 200, Mutation: 0.05
