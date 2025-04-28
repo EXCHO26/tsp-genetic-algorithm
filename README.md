@@ -50,13 +50,13 @@ The algorithm was tested with different parameters, yielding the following resul
 
 Sample Outputs:
 ### Generations: 200, Population: 50, Mutation: 0.01
-![image](https://github.com/user-attachments/assets/46b27cda-77b0-4fc2-a8b5-6ddf6dd3f148=250x200)
+<img src="https://github.com/user-attachments/assets/46b27cda-77b0-4fc2-a8b5-6ddf6dd3f148" width="300" alt="image" />
 
 ### Generations: 500, Population: 100, Mutation: 0.02
-![image](https://github.com/user-attachments/assets/639a1cad-e08a-4f92-ad47-4255d1b5c677=250x200)
+![image](https://github.com/user-attachments/assets/639a1cad-e08a-4f92-ad47-4255d1b5c677)
 
 ### Generations: 1000, Population: 200, Mutation: 0.05
-![image](https://github.com/user-attachments/assets/85196ea9-db8d-4385-9d94-19be2a696dfa=250x200)
+![image](https://github.com/user-attachments/assets/85196ea9-db8d-4385-9d94-19be2a696dfa)
 
 ---
 
