@@ -1,11 +1,11 @@
 # Traveling Salesman Problem (TSP) Solver using Genetic Algorithm
 
-## Description  
+## 📝 Description  
 This project implements a Genetic Algorithm (GA) to solve the Traveling Salesman Problem (TSP). The goal is to find the shortest possible route that visits a set of cities exactly once and returns to the origin city. The algorithm evolves a population of routes over generations, combining crossover and mutation to improve solutions.
 
 ---
 
-## Algorithm Overview  
+## 🧮 Algorithm Overview  
 The Genetic Algorithm follows these steps:  
 
 1. **Initialization**: Generates an initial population of random routes.  
@@ -13,7 +13,7 @@ The Genetic Algorithm follows these steps:
 3. **Mutation**: Introduces small random changes to routes to maintain diversity.  
 4. **Selection**: Selects the best routes from the current and new generations based on total distance traveled.  
 
-### Pseudocode  
+### ℹ️ Pseudocode  
 ```python  
 Function genetic_algorithm():  
     Initialize population  
@@ -47,6 +47,7 @@ The algorithm was tested with different parameters, yielding the following resul
 | 200         |	50              | 0.01                 | 1910.12           |
 | 500	      | 100	            | 0.02                 | 1719.79           |
 | 1000        |	200	            | 0.05                 | 1589.84           |
+
 
 ### Generations: 200, Population: 50, Mutation: 0.01
 ![image](https://github.com/user-attachments/assets/46b27cda-77b0-4fc2-a8b5-6ddf6dd3f148)<br><br>
